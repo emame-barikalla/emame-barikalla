@@ -58,12 +58,6 @@ I'm always open to discussing new projects, opportunities, or collaborations.
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=emame-barikalla&show_icons=true&theme=radical)
-
----
-
 <div align="center">
 
 ### 💡 "Building scalable solutions, one commit at a time"
