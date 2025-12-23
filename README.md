@@ -40,7 +40,7 @@
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
 
 ### Tools & Methodologies
-- Android Studio, Postman, Swagger
+- Postman, Swagger
 - UML, SCRUM/Agile
 - RESTful APIs, WebSocket
 
